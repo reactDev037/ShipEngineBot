@@ -21,4 +21,4 @@ These are the kinds of questions that you can ask @ShipEngineBot:
 
 
 ### Complete walkthrough
-For a complete walkthrough of the code, go to [https://jamesmessinger.com/ship-engine-bot/](https://jamesmessinger.com/ship-engine-bot/)
+For a complete walkthrough of the code, go to [https://github.com/reactDev037/ShipEngineBot](https://github.com/reactDev037/ShipEngineBot/)
